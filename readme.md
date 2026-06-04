@@ -85,7 +85,7 @@ To provide a centralized analytical dashboard that:
 
 ## 📸 Dashboard Preview
 
-![FNP Dashboard]([images/FNP_Dashboard.png](https://github.com/Thakurudhay26/FNP-Excel-Project/blob/main/Dashboard-Screenshots/Complete%20dashboard.png))
+![FNP Dashboard](https://github.com/Thakurudhay26/FNP-Excel-Project/blob/main/Dashboard-Screenshots/Complete%20dashboard.png)
 
 ---
 
